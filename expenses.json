@@ -1,0 +1,17 @@
+[
+    {
+        "expense": "Groceries",
+        "amount": 850.0,
+        "category": "Food"
+    },
+    {
+        "expense": "Bus Fare",
+        "amount": 60.0,
+        "category": "Travel"
+    },
+    {
+        "expense": "Notebook",
+        "amount": 120.0,
+        "category": "Education"
+    }
+]
